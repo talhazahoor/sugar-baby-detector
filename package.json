@@ -1,0 +1,1 @@
+{"name": "sugar-baby-detector", "version": "1.0.0", "scripts": {"start": "expo start", "build": "expo build"}, "dependencies": {"expo": "^46.0.5", "react": "^19.2.5", "react-native": "^0.70.5", "@supabase/supabase-js": "^2.4.1", "firebase": "^9.10.0"}, "devDependencies": {"@types/react": "^19.2.5", "@types/react-native": "^0.70.5", "typescript": "^6.0.2"}}
